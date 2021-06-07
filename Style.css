@@ -1,0 +1,33 @@
+body {
+   background-color: orange;
+}
+h1 {
+  color: red;
+  text-shadow: 2px 2px 5px white;
+  text-align: center;
+  font-size: 100px;
+  border-bottom: 10px solid yellow;
+  background-color: black;
+  margin: 20px 0px 30px 300px ;
+  border-radius: 50px;
+  }
+  h2{
+  color: black;
+  text-align: center;
+  text-shadow: 2px 2px 5px green;
+  font-size: 60px;
+  font-family: cursive;
+  
+  
+  }
+  table{ 
+  border: 40px double  white;
+  outline-style: dashed;
+  outline-color: red;
+  outline-width: thick;
+  }
+  td{
+  border: 15px solid;
+  border-color: black Blue lightblue yellow;
+  border-radius: 50px ;
+  }
